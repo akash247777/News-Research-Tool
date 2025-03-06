@@ -2,4 +2,6 @@ langchain
 langchain_community
 transformers
 TensorFlow
+pytorch
 tf-keras
+
