@@ -16,7 +16,7 @@ os.environ["HUGGINGFACEHUB_API_TOKEN"] = "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"
 
 # Configure Streamlit UI with a title
 st.title("AkashBot: News Research Tool 📈")
-st.sidebar.title("News Article URLs")  # Sidebar for URL input
+st.sidebar.title("News Article URLs 🌐")  # Sidebar for URL input
 
 # Collect up to 3 URLs from the user via the sidebar
 urls = []
