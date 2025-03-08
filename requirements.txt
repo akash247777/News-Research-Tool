@@ -4,3 +4,4 @@ transformers
 tensorflow
 torch
 tf-keras
+unstructured
