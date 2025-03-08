@@ -26,7 +26,7 @@ for i in range(3):
 
 # Button to trigger processing of URLs
 process_url_clicked = st.sidebar.button("Process URLs")
-file_path = "vectorindex_huggingface.pkl"  # File to save vector store
+file_path = "3_News_Research/vectorindex_huggingface.pkl"  # File to save vector store
 
 # Placeholder for dynamic status messages in the main UI
 main_placeholder = st.empty()
