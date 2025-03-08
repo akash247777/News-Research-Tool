@@ -1,6 +1,6 @@
-langchain
-langchain_community
-transformers
-TensorFlow
-torch
-tf-keras
+langchain==0.1.0
+langchain_community==0.1.0
+transformers==4.11.3
+tensorflow==2.8.0
+torch==1.10.0
+tf-keras==2.8.0
