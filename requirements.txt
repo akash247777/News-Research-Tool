@@ -6,3 +6,4 @@ torch
 tf-keras
 unstructured
 sentence-transformers
+faiss-cpu
