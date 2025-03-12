@@ -3,6 +3,10 @@ A powerful news research tool that allows you to process and analyze news articl
 
 # 🤖📈 AKashBot: AI-Powered News Research Tool 📰🔍
 
+
+https://github.com/user-attachments/assets/a08d734b-51ea-4847-b430-86374c697721
+
+
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue) ![Streamlit](https://img.shields.io/badge/Streamlit-1.25%2B-brightgreen) ![HuggingFace](https://img.shields.io/badge/HuggingFace-Transformers-orange)
 
 ## 🌟 Overview
